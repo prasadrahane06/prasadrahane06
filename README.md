@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @prasadrahane06
 - 🌱 I’m currently learning : Reactjs and Nextjs
 - 💞️ I’m looking to collaborate on :Reactjs Projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Love learning new techs
 
 <!---
